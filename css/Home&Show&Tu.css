@@ -14,16 +14,8 @@
             font-family: Arial, sans-serif;
             margin: 30px;
             padding: 0;
-            background-color: #fce0e0;
             background-size: cover; 
             background-position: center;
-            color: #fce0e0;
         }
 
-        h1 {
-            color: #ff4c67;
-        }
 
-        p {
-            color: #323232;
-        }
